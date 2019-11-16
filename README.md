@@ -7,10 +7,10 @@ In stage 1. I have Used React Native Cli for Client Side Work and I am Usinng As
 
 Features Of This App:
 
-Doctors Can signup
-Doctors Can Login
-Doctors can add patients
-Doctors can View all Patients
-Doctors View history of Specific Patient.(How many time he/she visited,what medicines doctor suggested)
-Doctors can add New Record in History of Specific Patient.
+Doctors Can signup,
+Doctors Can Login,
+Doctors can add patients,
+Doctors can View all Patients,
+Doctors View history of Specific Patient.(How many time he/she visited,what medicines doctor suggested), 
+Doctors can add New Record in History of Specific Patient., 
 
